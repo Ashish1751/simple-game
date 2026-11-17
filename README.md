@@ -1,6 +1,6 @@
 # Tetris
 
-A small browser Tetris. No build step, no dependencies — three static files.
+A small browser Tetris. Play it here: https://ishaan-lal.github.io/simple-game/
 
 ## Play
 
